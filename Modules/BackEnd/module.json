@@ -1,0 +1,16 @@
+{
+    "name": "BackEnd",
+    "alias": "backend",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\BackEnd\\Providers\\BackEndServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
